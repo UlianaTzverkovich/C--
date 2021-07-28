@@ -1,0 +1,4 @@
+﻿  ControlTask3.2.cpp
+D:\ИТМО\С++\Task 1.1\ControlTask3.2\ControlTask3.2.cpp(48,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ИТМО\С++\Task 1.1\ControlTask3.2\ControlTask3.2.cpp(39,6): warning C4101: 'i': unreferenced local variable
+  ControlTask3.2.vcxproj -> D:\ИТМО\С++\Task 1.1\Debug\ControlTask3.2.exe

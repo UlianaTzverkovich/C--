@@ -1,0 +1,7 @@
+﻿  mainSortVectir.cpp
+  mainTime.cpp
+  point.cpp
+  time.cpp
+D:\ИТМО\С++\Labs\AllTasks11\time.cpp(25,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  AllTasks11.vcxproj -> D:\ИТМО\С++\Labs\Debug\AllTasks11.exe

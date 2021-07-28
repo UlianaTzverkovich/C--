@@ -1,0 +1,5 @@
+﻿  ControlTask2.4.cpp
+D:\ИТМО\С++\Task 1.1\ControlTask2.4\ControlTask2.4.cpp(42,13): warning C4018: '<=': signed/unsigned mismatch
+D:\ИТМО\С++\Task 1.1\ControlTask2.4\ControlTask2.4.cpp(73,10): warning C4018: '>=': signed/unsigned mismatch
+D:\ИТМО\С++\Task 1.1\ControlTask2.4\ControlTask2.4.cpp(78,15): warning C4018: '>=': signed/unsigned mismatch
+  ControlTask2.4.vcxproj -> D:\ИТМО\С++\Task 1.1\Debug\ControlTask2.4.exe
